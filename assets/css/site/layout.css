@@ -1,0 +1,96 @@
+/*Header*/
+
+header {
+	background-color: #fff714;
+	min-height: 51px;
+}
+
+header a {
+	text-align: center;
+	padding: 13px;
+	height: 180%;
+}
+
+header a:hover {
+	border-radius: 5px;
+	text-decoration: none;
+	background-color: #333;
+}
+
+header #logo {
+	padding-top: 12px; 
+}
+
+header .links a:hover{
+	background-color: #333;
+	border-radius: 5px; 
+	color: #fff714 !important;
+}
+
+header .fas {
+	color: #333;
+	font-size: 150%;
+}
+
+
+header a:hover .fas {
+	color: #fff714;
+}
+
+/* Footer */
+
+footer {
+	background-color: #222;
+}
+footer .fab {
+	color: white;
+	font-size: 250%;
+	margin: 10px 15px;
+}
+
+footer .far {
+	color: white;
+	font-size: 250%;
+	margin: 0px 15px 10px 15px;
+}
+
+
+
+
+/*Responsivo*/
+@media (max-width: 767px){
+
+	header .hamburguer {
+		display: block!important;
+	}
+
+	header .hamburguer img {
+		width: 52px;
+		height: 47px;
+		margin: 3px 0;
+		margin-right: -5px;
+	}
+
+	header .links {
+		display: none;
+		padding-top: 2.5rem;
+	}
+
+	header .links a{
+		text-align: right;
+		width: 100%;
+		float: none!important;
+	}
+
+	footer a {
+		width: 100%;
+		text-align: center;
+		display: block;
+	}
+
+	footer h3 {
+		padding-top: 2.5rem; 
+		width: 100%;
+		text-align: center;
+	}
+}
