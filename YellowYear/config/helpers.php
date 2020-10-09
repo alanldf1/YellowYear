@@ -8,7 +8,7 @@
 *
 **/
 
-define('LOCAL_URL', '/Alan_Sou/aulas-sala/project-one');
+define('LOCAL_URL', '/YellowYear/YellowYear');
 
 // if($env == "dev"){
 // 	define('LOCAL_URL', '/Alan_Sou/aulas-sala/project-one');
