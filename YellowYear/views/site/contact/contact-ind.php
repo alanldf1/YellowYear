@@ -68,7 +68,7 @@
 			<div class="col-12">
 				
 				<!-- mapa -->
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33575.85424767461!2d-50.301857994260786!3d-27.80278479955546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e019389a8c35f5%3A0x1640cc023fffbd4d!2sAv.%20Maria%20Am%C3%A9lia%20Ramos%2C%20171%20-%20Guaruj%C3%A1%2C%20Lages%20-%20SC%2C%2088521-154!5e0!3m2!1spt-BR!2sbr!4v1599853763711!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d450916.96235867665!2d-50.627932571624214!3d-28.00035829687855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e01ed7b46b8f5b%3A0x489d0c009ae62d94!2sLages%20-%20SC!5e0!3m2!1spt-BR!2sbr!4v1608641388883!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 			</div>
 

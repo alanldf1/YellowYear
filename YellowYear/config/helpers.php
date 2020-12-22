@@ -11,7 +11,7 @@
 define('LOCAL_URL', '/YellowYear/YellowYear');
 
 // if($env == "dev"){
-// 	define('LOCAL_URL', '/Alan_Sou/aulas-sala/project-one');
+// 	define('LOCAL_URL', '/YellowYear/YellowYear');
 // }
 // elseif($env == "prod"){
 // 	define('LOCAL_URL', 'https://www.google.com.br/');

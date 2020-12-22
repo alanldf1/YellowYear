@@ -12,7 +12,7 @@
 		<meta name="author"		 content="Code Universe">
 		<meta name="viewport"	 content="width=device-width, initial-scale=1.0">
 		<meta name="robots"		 content="index, follow">
-		<title>Project One</title>
+		<title>Yellow Year</title>
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/libs/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/libs/fontawesome/css/fontawesome.min.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/libs/fontawesome/css/brands.min.css">
